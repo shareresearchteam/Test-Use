@@ -16,3 +16,8 @@ Favorite Color: Blood Red
 Name: Jacob Strand
 Emai: strandja@oregonstate.edu
 Favorite Color: Orange
+
+### Student 4
+Name: Bilal Aldaus
+Emai: aldausb@oregonstate.edu
+Favorite Color: Black
