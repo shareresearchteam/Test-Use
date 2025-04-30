@@ -7,3 +7,5 @@ Email: vonworlj@oregonstate.edu
 Favorite Color: Dark Purple
 
 Wyatt Boer
+Email: boerw@oregonstate.edu
+Favorite Color: Black
