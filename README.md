@@ -13,6 +13,6 @@ Email: Moussaah@oregonstate.edu
 Favorite Color: Blood Red
 
 ### Student 3
-Name:
-Emai:
-Favorite Color:
+Name: Jacob Strand
+Emai: strandja@oregonstate.edu
+Favorite Color: Orange
