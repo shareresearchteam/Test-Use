@@ -5,3 +5,5 @@ Team Member Names
 John Von Worley
 Email: vonworlj@oregonstate.edu
 Favorite Color: Dark Purple
+
+Wyatt Boer
