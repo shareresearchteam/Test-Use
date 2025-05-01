@@ -7,3 +7,5 @@ Email: rupnawal@oregonstate.edu
 Favorite Color: orange
 
 -Cory Hungate
+Email: hungatec@oregonstate.edu
+Favorite Color: Usually red but sometimes blue
