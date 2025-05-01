@@ -5,3 +5,5 @@ Team Member Names:
 - Lara Rupnawar
 Email: rupnawal@oregonstate.edu
 Favorite Color: orange
+
+-Cory Hungate
