@@ -1,3 +1,5 @@
 # Team Members
-Andrew Hiser
+Andrew Hiser:
+Email: hisera@oregonstate.edu
+Favorite Color: Blue
 
