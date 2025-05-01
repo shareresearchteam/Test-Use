@@ -13,5 +13,5 @@ Email: mcvayd@oregonstate.edu
 facorite color: Blue
 
 Andrew Dillon
-Email: 20dillonandrew@gmail.com
+Email: dilloand@oregonstate.com
 Favorite Color: Blue
