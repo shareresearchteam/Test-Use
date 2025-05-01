@@ -6,3 +6,5 @@ Email: hashbarl@oregonstate.edu
 Favorite Color: Purple
 
 Reilley Dearth
+Email: dearthr@oregonstate.edu  
+Favorite Color: Turquoise
