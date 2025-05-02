@@ -11,4 +11,4 @@ Favorite Color: Turquoise
 
 Michael Gallina
 Email: gallinam@oregonstate.edu
-Favorite Color: Orange
+Favorite Color: Orange (Though it varies)
