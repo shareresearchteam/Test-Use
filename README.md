@@ -6,5 +6,5 @@ Email: prattz@oregonstate.edu
 Favorite Color: Green
 
 Caleb Pettengill
-Email pettengc@oregonstate.edu
-Favorite color: Blue
+Email: pettengc@oregonstate.edu
+Favorite color: Blue, also purple is a good color
