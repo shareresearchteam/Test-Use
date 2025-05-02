@@ -4,3 +4,7 @@ This repo is for folks to use to test git functionality.
 Zachary Pratt
 Email: prattz@oregonstate.edu  
 Favorite Color: Green
+
+Caleb Pettengill
+Email pettengc@oregonstate.edu
+Favorite color: Blue
