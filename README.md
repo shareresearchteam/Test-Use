@@ -9,3 +9,7 @@ Favorite Color: orange
 -Cory Hungate
 Email: hungatec@oregonstate.edu
 Favorite Color: Usually red but sometimes blue
+
+- Samuel Waxman
+Email: waxmans@oregonstate.edu
+Favorite Color: #03fcfc (light blue)
