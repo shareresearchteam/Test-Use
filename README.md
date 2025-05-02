@@ -8,3 +8,7 @@ Favorite Color: Purple
 Reilley Dearth
 Email: dearthr@oregonstate.edu  
 Favorite Color: Turquoise
+
+Michael Gallina
+Email: gallinam@oregonstate.edu
+Favorite Color: Orange
