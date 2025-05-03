@@ -13,3 +13,5 @@ Favorite Color: Black
 Kyle Vickstrom
 Email: vickskyl@oregonstate.edu
 Favorite Color: Dark Green
+
+Marcus Scheer
