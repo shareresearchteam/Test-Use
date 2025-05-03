@@ -17,3 +17,5 @@ Email: dilloand@oregonstate.com
 Favorite Color: Blue
 
 Conor Rosenberger
+Email: rosencon@oregonstate.edu
+Favorite Color: Purple
