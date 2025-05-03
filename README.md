@@ -8,3 +8,7 @@ Favorite Color: Green
 Caleb Pettengill
 Email: pettengc@oregonstate.edu
 Favorite color: Blue, also purple is a good color
+
+Joshua Brown
+Email: brownjo8@oregonstate.edu
+Favorite Color: Purple
