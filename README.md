@@ -9,3 +9,5 @@ Favorite Color: Dark Purple
 Wyatt Boer
 Email: boerw@oregonstate.edu
 Favorite Color: Black
+
+Kyle Vickstrom
