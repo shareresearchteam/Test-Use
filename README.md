@@ -13,3 +13,5 @@ Favorite Color: Usually red but sometimes blue
 - Samuel Waxman
 Email: waxmans@oregonstate.edu
 Favorite Color: #03fcfc (light blue)
+
+- Colby Cairel
