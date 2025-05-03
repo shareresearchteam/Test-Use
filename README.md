@@ -15,3 +15,5 @@ Email: vickskyl@oregonstate.edu
 Favorite Color: Dark Green
 
 Marcus Scheer
+Email: scheerma@oregonstate.edu
+Favorite Color: Purple
