@@ -11,3 +11,5 @@ Email: boerw@oregonstate.edu
 Favorite Color: Black
 
 Kyle Vickstrom
+Email: vickskyl@oregonstate.edu
+Favorite Color: Dark Green
