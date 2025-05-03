@@ -15,3 +15,5 @@ facorite color: Blue
 Andrew Dillon
 Email: dilloand@oregonstate.com
 Favorite Color: Blue
+
+Conor Rosenberger
