@@ -15,3 +15,5 @@ Email: waxmans@oregonstate.edu
 Favorite Color: #03fcfc (light blue)
 
 - Colby Cairel
+Email: cairelc@oregonstate.edu
+Favorite Color: Green
