@@ -19,3 +19,5 @@ Email: kochtho@oregonstate.edu
 Favorite color: Blue (but specifically the one shade of blue on the backside of one specific product type of wafer coated in silicon nitride)
 
 Zachary Thomas
+Email: thomazac@oregonstate.edu
+Favorite color: Green
