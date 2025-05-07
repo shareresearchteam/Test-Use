@@ -21,3 +21,8 @@ Favorite Color: Orange
 Name: Bilal Aldaus
 Emai: aldausb@oregonstate.edu
 Favorite Color: Black
+
+### Student 5
+Name: Anthony Contreras
+Emai: contrant@oregonstate.edu
+Favorite Color: Green
