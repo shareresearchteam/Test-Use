@@ -17,3 +17,7 @@ Favorite Color: #03fcfc (light blue)
 - Colby Cairel
 Email: cairelc@oregonstate.edu
 Favorite Color: Green
+
+- Adeline Schneider
+Email: schneade@oregonstate.edu
+Favorite color: black
